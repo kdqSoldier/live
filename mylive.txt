@@ -1,4 +1,10 @@
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1,https://stream1.freetv.fun/f187d130bf6fe1204b81d7a8c23f610d4ce441032c4805ed29a4292c2648a098.m3u8
+CCTV1,https://stream1.freetv.fun/cctv18-2.m3u8
+CCTV1,https://stream1.freetv.fun/f79a854ab39fef54acf3327f31d0a8ec3c3604bc857d9c631f73af9bef3ffeed.m3u8
+CCTV1,https://stream1.freetv.fun/cctv18-1.m3u8
+CCTV1,
+CCTV1,
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
