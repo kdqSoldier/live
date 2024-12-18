@@ -22,7 +22,7 @@ CCTV2,https://stream1.freetv.fun/cctv12807202-1.m3u8
 CCTV2,https://stream1.freetv.fun/8477b2176fb74f75c99d651f82eadce35f2be759854cc0875ffada333d5dee26.m3u8
 CCTV2,https://stream1.freetv.fun/cctv24-1.m3u8
 CCTV2,https://stream1.freetv.fun/7ba66c7dd95f9b38f229938b336ab75433e257879542a02bb1ae24024aadc989.m3u8
-CCTV3,https://stream1.freetv.fun/66c87eca046a82d70183230c68567d93816435d57f1ffad66379618e2ec753e4.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
 CCTV3,https://stream1.freetv.fun/cctv38-2.m3u8
 CCTV3,https://stream1.freetv.fun/db23dbf29e4a24170169a125a0bf2a75f7ba2007969bbe62c8a37b9c8f8e5901.m3u8
 CCTV3,https://stream1.freetv.fun/cctv34-2.m3u8
